@@ -1,0 +1,2 @@
+net.amina.dao.DaoImpl
+net.amina.metier.MetierImpl
